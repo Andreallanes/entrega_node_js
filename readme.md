@@ -14,3 +14,7 @@ REQUERIMIENTO 2
 Instaladas las dependencias: express, cors, body-parser, dotenv, firebase y jsonwebtoken
 
 Subido a GITHUB
+
+REQUERIMIENTO 3
+Cree un servidor web con express y lo configure en el index
+Configure cors
